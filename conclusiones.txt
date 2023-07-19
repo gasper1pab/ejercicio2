@@ -1,0 +1,3 @@
+Hallazgos y conclusiones 
+Para el caso 3, la solicitud post tiene cabeceras, sin las cuales, el servicio no actualiza a lo solicitado, aunque el body de respuesta el mismo en ambos casos, no indica que no realizo la actualización solicitada
+Todos los servicios respondieron en un tiempo adecuado, sin presentarse ningún problema de respuesta 
